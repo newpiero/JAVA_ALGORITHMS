@@ -36,4 +36,4 @@ public class Main {
         array.bubbleSort();
         System.out.println("Пузырьковая сортировка: " + (System.currentTimeMillis() - tmp) + " мс");
     }
-} 
+}  
